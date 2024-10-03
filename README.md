@@ -9,10 +9,10 @@ Includes
 * **wmi**
 
 Commands
->>> import mtools
->>> if is_connected:
->>>     print("Connected to network")
->>> if not is_connected:
->>>     print("Unable to connect to network")
+- import mtools
+- if is_connected:
+-     print("Connected to network")
+- if not is_connected:
+-     print("Unable to connect to network")
 
-All rights reserved. Github (https://github.com/Martinko1006/mtools-library-python)
+All rights reserved.
